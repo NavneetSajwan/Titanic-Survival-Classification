@@ -1,2 +1,2 @@
 # titanic-survival
-Testing various machine learning techniques to predict titanic survivors
+Predicting titanic survivors using SVM
